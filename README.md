@@ -1,4 +1,6 @@
 # ZeroDarkMatrix Theme for Chrome
+
+[![Join the chat at https://gitter.im/Luxurioust/chrome-devtools-zerodarkmatrix-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Luxurioust/chrome-devtools-zerodarkmatrix-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A highly customized dark theme for Google Chrome.
 
 Stable and Canary channels are officially supported.  Beta and Dev channels will work, but I'm not testing on them.
